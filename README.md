@@ -36,11 +36,15 @@
 
 ### 2. 자스민의 질주를 더욱 역동적으로! 집중선 애니메이션
 
+![질주 중 만화풍 집중선 애니메이션](assets/screenshots/03-speed-lines.jpg)
+
 배속이 적용된 상태로 발판 사이를 이동할 때 화면에 **만화풍 집중선 애니메이션**이 펼쳐집니다.
 
 빠르게 달려 나가는 듯한 속도감을 시각적으로 강조하여, 자스민 특유의 질주 플레이에 박진감과 몰입감을 더합니다. 설정에 따라 갈림길에서 이동 방향을 선택하는 동안에도 집중선을 표시할 수 있습니다.
 
 ### 3. 화면 밖의 질주 발판도 놓치지 않도록!
+
+![화면 밖 질주 발판 방향 안내 마크](assets/screenshots/02-rush-marker.png)
 
 자스민에게 중요한 **질주 발판**을 더욱 편리하게 활용할 수 있도록 방향 안내 기능을 제공합니다.
 
@@ -76,34 +80,14 @@
 
 ### 8. 다국어 지원과 상세한 사용 설명
 
+![Jasmine Speed Booster 설정 창](assets/screenshots/04-settings.png)
+![Jasmine Speed Booster 상세 사용 설명](assets/screenshots/05-user-guide.png)
+
 **지원 언어:** 한국어 · English · 日本語 · 中文
 
 프로그램의 설정 화면과 사용 설명에서 4개 언어를 지원합니다.
 
 각 기능의 작동 조건과 설정 방법, 단축키 사용법 등 자세한 내용은 프로그램의 **설정 → 사용 설명**에서 확인할 수 있습니다.
-
-## 스크린샷
-
-### 배속 상태 및 '빨리빨리' 버프 표시
-
-![배속 정보, 가속 뱃지 및 빨리빨리 버프 표시](assets/screenshots/01-ingame-ui.png)
-
-### 질주 발판 방향 표시
-
-![화면 밖 질주 발판 방향 안내 마크](assets/screenshots/02-rush-marker.png)
-
-### 집중선 애니메이션
-
-![질주 중 만화풍 집중선 애니메이션](assets/screenshots/03-speed-lines.jpg)
-
-### 프로그램 설정 및 사용 설명
-
-| 설정 창 | 사용 설명 |
-|:---:|:---:|
-| [![프로그램 설정 창](assets/screenshots/04-settings.png)](assets/screenshots/04-settings.png) | [![사용 설명 창](assets/screenshots/05-user-guide.png)](assets/screenshots/05-user-guide.png) |
-
-각 기능의 상세한 설정 방법과 사용법은 프로그램의 **설정 → 사용 설명**에서 확인할 수 있습니다.
-
 
 ## 기본 단축키
 
