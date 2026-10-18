@@ -82,6 +82,29 @@
 
 각 기능의 작동 조건과 설정 방법, 단축키 사용법 등 자세한 내용은 프로그램의 **설정 → 사용 설명**에서 확인할 수 있습니다.
 
+## 스크린샷
+
+### 배속 상태 및 '빨리빨리' 버프 표시
+
+![배속 정보, 가속 뱃지 및 빨리빨리 버프 표시](assets/screenshots/01-ingame-ui.png)
+
+### 질주 발판 방향 표시
+
+![화면 밖 질주 발판 방향 안내 마크](assets/screenshots/02-rush-marker.png)
+
+### 집중선 애니메이션
+
+![질주 중 만화풍 집중선 애니메이션](assets/screenshots/03-speed-lines.jpg)
+
+### 프로그램 설정 및 사용 설명
+
+| 설정 창 | 사용 설명 |
+|:---:|:---:|
+| [![프로그램 설정 창](assets/screenshots/04-settings.png)](assets/screenshots/04-settings.png) | [![사용 설명 창](assets/screenshots/05-user-guide.png)](assets/screenshots/05-user-guide.png) |
+
+각 기능의 상세한 설정 방법과 사용법은 프로그램의 **설정 → 사용 설명**에서 확인할 수 있습니다.
+
+
 ## 기본 단축키
 
 | 키 | 기능 |
