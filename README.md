@@ -84,8 +84,9 @@
 
 ### 8. 다국어 지원과 상세한 사용 설명
 
-![Jasmine Speed Booster 설정 창](assets/screenshots/04-settings.png)
-![Jasmine Speed Booster 상세 사용 설명](assets/screenshots/05-user-guide.png)
+| 설정 창 | 사용 설명 |
+|:---:|:---:|
+| [![프로그램 설정 창](assets/screenshots/04-settings.png)](assets/screenshots/04-settings.png) | [![사용 설명 창](assets/screenshots/05-user-guide.png)](assets/screenshots/05-user-guide.png) |
 
 **지원 언어:** 한국어 · English · 日本語 · 中文
 
